@@ -7,6 +7,12 @@ A lightweight Windows desktop application that reminds you to follow the **20-20
 The application runs quietly in the background and displays a small reminder notification near the Windows taskbar.
 
 ---
+<img width="853" height="403" alt="Eye_care_Control" src="https://github.com/user-attachments/assets/1300bf66-68af-437b-944b-efa83b99d5ac" />
+<img width="857" height="527" alt="Eye_care_Notify" src="https://github.com/user-attachments/assets/ccc53310-3085-4585-97c5-db07abe64e81" />
+<img width="886" height="485" alt="Eye_care_BG_B_Notify" src="https://github.com/user-attachments/assets/3a91a798-f8ec-4d3e-b7e4-5475c8d8b63e" />
+
+
+
 
 ## ✨ Features
 
